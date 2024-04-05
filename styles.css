@@ -183,7 +183,7 @@ nav {
   box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.2);
 }
 
-@media (width > 540px) {
+@media (width > 400px) {
   .section__container h1,
   .section__container h2 {
     font-size: 5.5rem;
@@ -191,7 +191,7 @@ nav {
   }
 }
 
-@media (width > 768px) {
+@media (width > 500px) {
   .nav__links > div li:not(:first-child) {
     display: block;
   }
