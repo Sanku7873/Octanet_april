@@ -186,8 +186,8 @@ nav {
 @media (width > 400px) {
   .section__container h1,
   .section__container h2 {
-    font-size: 5.5rem;
-    line-height: 5.5rem;
+    font-size: 3.5rem;
+    line-height: 3.5rem;
   }
 }
 
@@ -204,7 +204,7 @@ nav {
 
   .section__container h1,
   .section__container h2 {
-    font-size: 7rem;
-    line-height: 7rem;
+    font-size: 4rem;
+    line-height: ⁴rem;
   }
 }
